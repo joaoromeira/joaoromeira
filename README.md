@@ -1,5 +1,9 @@
 ## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
 
+### Open source projects
+
+- [magic-masks](https://www.npmjs.com/package/magic-masks)
+
 ![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge) 
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) 
