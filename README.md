@@ -4,6 +4,7 @@
 
 - [astro-components](https://www.npmjs.com/package/astro-components)
 - [magic-masks](https://www.npmjs.com/package/magic-masks)
+- [face-rekognition](https://github.com/joaoromeira/face-rekognition)
 
 ![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge) 
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
