@@ -2,6 +2,7 @@
 
 ### Open source projects
 
+- [astro-components](https://www.npmjs.com/package/astro-components)
 - [magic-masks](https://www.npmjs.com/package/magic-masks)
 
 ![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge) 
