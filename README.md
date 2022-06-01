@@ -1,4 +1,4 @@
-## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
+## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" height="22.5px" />
 
 ### Open source projects
 
