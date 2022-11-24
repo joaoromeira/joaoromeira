@@ -2,7 +2,6 @@
 
 ### Open source projects
 
-- [astro-components](https://www.npmjs.com/package/astro-components)
 - [magic-masks](https://www.npmjs.com/package/magic-masks)
 - [face-rekognition](https://github.com/joaoromeira/face-rekognition)
 
