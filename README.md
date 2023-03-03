@@ -2,7 +2,7 @@
 
 I have deep knowledge in software engineering. I specialize in frontend with ReactJS, Typescript and NextJS. For tests i use Cypress for e2e and Jest + React Testing Libary to Unit Tests. I can develop backend with Node JS, PostgresQL and MongoDB.
 
-## Clean architecture concepts
+### Clean architecture concepts
 - [clean-react](https://github.com/joaoromeira/clean-react)
 - [clean-api](https://github.com/joaoromeira/clean-api)
 
