@@ -2,11 +2,11 @@
 
 I have deep knowledge in software engineering. I specialize in frontend with ReactJS, Typescript and NextJS. For tests i use Cypress for e2e and Jest + React Testing Libary to Unit Tests. I can develop backend with Node JS, PostgresQL and MongoDB.
 
-### Clean architecture concepts
-- [user-control-app](https://github.com/joaoromeira/user-app-control) (with e2e tests)
-- [micro-front-end-concept](https://github.com/joaoromeira/micro-front-end-concept) (react and vue app into microfrontend)
-- [clean-react](https://github.com/joaoromeira/clean-react)
-- [clean-api](https://github.com/joaoromeira/clean-api)
+### Study cases
+- [user-control-app](https://github.com/joaoromeira/user-app-control) (Clean arch + with E2E tests (Cypress) with NextJS)
+- [micro-front-end-concept](https://github.com/joaoromeira/micro-front-end-concept) (Microfrontend with ReactJS and Vue)
+- [clean-react](https://github.com/joaoromeira/clean-react) (Clean arch concepts with ReactJS)
+- [clean-api](https://github.com/joaoromeira/clean-api) (Clean arch concepts with NodeJS)
 
 ### Open source projects
 
