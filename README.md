@@ -12,3 +12,6 @@ I have deep knowledge in software engineering. I specialize in frontend with Rea
 
 - [magic-masks](https://www.npmjs.com/package/magic-masks)
 - [face-rekognition](https://github.com/joaoromeira/face-rekognition)
+
+### Templates
+- [nestjs](https://github.com/joaoromeira/template-nest-js.git)
