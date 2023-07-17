@@ -11,7 +11,7 @@ Proficient in software architecture concepts related to Clean Arch, Data Structu
 - [Lead App](https://github.com/joaoromeira/lead-app), Clean arch + with E2E tests (Cypress) with NextJS
 - [Microfrontend Concept](https://github.com/joaoromeira/micro-front-end-concept), Microfrontend with ReactJS and Vue
 - [Clean Arch with ReactJS](https://github.com/joaoromeira/clean-react), Clean arch concepts with ReactJS
-- [Clean Arch with NestJS](https://github.com/joaoromeira/template-nest-js.git), Clean arch concepts with NodeJS
+- [Clean Arch with NestJS](https://github.com/joaoromeira/nestjs-template), Clean arch concepts with NodeJS
 - [Face and Objects Rekognition](https://github.com/joaoromeira/face-rekognition), ReacJS and TensorFlow
 
 ### Open source projects
@@ -20,4 +20,4 @@ Proficient in software architecture concepts related to Clean Arch, Data Structu
 
 
 ### Templates
-- [NestJS](https://github.com/joaoromeira/template-nest-js.git)
+- [NestJS](https://github.com/joaoromeira/nestjs-template)
