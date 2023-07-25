@@ -16,6 +16,7 @@ Proficient in software architecture concepts related to Clean Arch, Data Structu
 
 ### Open source projects
 
+- [HyperFlex UI](https://github.com/joaoromeira/hyperflex-ui)
 - [Magic Masks](https://www.npmjs.com/package/magic-masks)
 
 
