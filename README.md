@@ -1,4 +1,4 @@
-## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" height="22.5px" />
+  ## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" height="22.5px" />
 
 ### About me
 Software Developer focused on frontend, primarily working with JavaScript/TypeScript in ReactJS and NodeJS. I also possess knowledge in infrastructure, UI, and UX. I have predominantly worked in startups, collaborating on features that have resulted in revenue growth and an expanded customer base.
@@ -6,6 +6,9 @@ Software Developer focused on frontend, primarily working with JavaScript/TypeSc
 Recently, I have been developing web applications and microservices, utilizing cloud resources from Google and AWS, infrastructure, and CI/CD tools like GitHub Actions. I have experience with testing using Cypress (e2e) and Jest.
 
 Proficient in software architecture concepts related to Clean Arch, Data Structures, and Algorithms.
+
+### Last releases
+🎉 [HyperFlex UI](https://github.com/joaoromeira/hyperflex-ui) v1.0.0
 
 ### Study cases
 - [Lead App](https://github.com/joaoromeira/lead-app), Clean arch + with E2E tests (Cypress) with NextJS
@@ -16,8 +19,8 @@ Proficient in software architecture concepts related to Clean Arch, Data Structu
 
 ### Open source projects
 
-- [HyperFlex UI](https://github.com/joaoromeira/hyperflex-ui)
-- [Magic Masks](https://www.npmjs.com/package/magic-masks)
+- [HyperFlex UI](https://github.com/joaoromeira/hyperflex-ui), Design System based on Material UI
+- [Magic Masks](https://www.npmjs.com/package/magic-masks), Lib for mask data for apps in JavaScript or TypeScript
 
 
 ### Templates
