@@ -8,10 +8,11 @@ Recently, I have been developing web applications and microservices, utilizing c
 Proficient in software architecture concepts related to Clean Arch, Data Structures, and Algorithms.
 
 ### Last releases
-🎉 [HyperFlex UI](https://github.com/joaoromeira/hyperflex-ui) v1.0.0
+🎉 [HyperFlex UI](https://github.com/joaoromeira/hyperflex-ui) and [NestJS Template](https://github.com/joaoromeira/nestjs-template)
 
 ### Study cases
 - [Lead App](https://github.com/joaoromeira/lead-app), Clean arch + with E2E tests (Cypress) with NextJS
+- [Bank App](https://github.com/joaoromeira/ultra-bank), React Native (Expo) with Typescript, used only native components
 - [Microfrontend Concept](https://github.com/joaoromeira/micro-front-end-concept), Microfrontend with ReactJS and Vue
 - [Clean Arch with ReactJS](https://github.com/joaoromeira/clean-react), Clean arch concepts with ReactJS
 - [Clean Arch with NestJS](https://github.com/joaoromeira/nestjs-template), Clean arch concepts with NodeJS
