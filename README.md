@@ -21,8 +21,7 @@ Proficient in software architecture concepts related to Clean Arch, Data Structu
 ### Open source projects
 
 - [HyperFlex UI](https://github.com/joaoromeira/hyperflex-ui), Design System based on Material UI
-- [Magic Masks](https://www.npmjs.com/package/magic-masks), Lib for mask data for apps in JavaScript or TypeScript
-
+- [Magic Masks](https://www.npmjs.com/package/magic-masks), This is a JavaScript or TypeScript library for masking data in apps
 
 ### Templates
 - [NestJS](https://github.com/joaoromeira/nestjs-template)
