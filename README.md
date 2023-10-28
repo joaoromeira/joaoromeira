@@ -24,4 +24,5 @@ Proficient in software architecture concepts related to Clean Arch, Data Structu
 - [Magic Masks](https://www.npmjs.com/package/magic-masks), This is a JavaScript or TypeScript library for masking data in apps
 
 ### Templates
+- [React Vite](https://github.com/joaoromeira/react-vite)
 - [NestJS](https://github.com/joaoromeira/nestjs-template)
